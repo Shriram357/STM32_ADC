@@ -1,5 +1,9 @@
 # STM32 Timer Triggered ADC with DMA and UART
 
+## Demo
+Short video showing live ADC output:
+<video_link>
+
 ## Overview
 This project implements a hardware-driven data acquisition system on the STM32F303RE.
 A timer running at 100 Hz triggers ADC conversions. ADC results are transferred to memory
